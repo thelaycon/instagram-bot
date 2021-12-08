@@ -1,0 +1,6 @@
+click
+requests
+pandas
+pyautogui
+apscheduler
+selenium
